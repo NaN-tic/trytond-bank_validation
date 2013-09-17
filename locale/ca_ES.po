@@ -1,0 +1,21 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "error:bank.account:"
+msgid "Invalid Bank number!"
+msgstr "Número de compte bancari invàlid."
+
+msgctxt "field:bank.account,bank_country:"
+msgid "Bank Country"
+msgstr "Codi país"
+
+msgctxt "field:bank.account,bank_number:"
+msgid "Bank Number"
+msgstr "Número compte bancari"
+
+msgctxt "help:bank.account,bank_country:"
+msgid "Setting Bank country will enable validation of the Bank code."
+msgstr ""
+"Afegint el país del compte bancari validarà si el compte bancari es "
+"correcte."
